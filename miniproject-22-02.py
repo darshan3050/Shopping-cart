@@ -1,4 +1,4 @@
-pas=('viva123')
+pas=('ABCD')
 import os
 clear = lambda: os.system("cls")
 clear()
